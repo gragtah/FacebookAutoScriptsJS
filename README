@@ -6,7 +6,9 @@ Currently, I have:
 1. a script for liking all wall posts on a profile (slightly buggy, doesn't expand older posts all the way down/like some of those posts; maybe this won't be a problem with facebook timeline? needs to be worked on)
 2. a script for auto-wishing everyone with a birthday today (of course, taking advantage of the new popup birthday wish interface that fb added)
   
+~For now, they can be used by running the code through the address bar of a browser, or I personally used firebug in firefox. Checking out how to make these proper userscripts.
 
-NOTE: Facebook gave me warning for using the like-all script consecutively a few times, so don't overuse it.
+
+**NOTE: Facebook gave me warning for using the like-all script consecutively a few times, so don't overuse it.
 What happens is not my responsibility.
 

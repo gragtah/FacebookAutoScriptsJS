@@ -6,7 +6,7 @@ function expandAll(){
   z[0].click();
   ctr++;
   alert(ctr);
-  if (ctr<=5){ loop();}
+  if (ctr<=5){ loop()  ;}
 }
 
 function loop(){
@@ -16,9 +16,9 @@ function loop(){
 expandAll();
 
 var x = document.getElementsByClassName('like_link stat_elem as_link');
-for(var i = 0; i < x.length; ++i) {
-  if(x[i].name=='like') {x[i].click();}
+for(var i = 0; i < x.length; i++) {
+  if(x[i].name='like') {x[i].click()}
 
 };
 alert("done");
-void(0);
+void(1);
